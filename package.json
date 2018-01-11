@@ -1,5 +1,5 @@
 {
-  "name": "imagemin-jpegtran",
+  "name": "@weus/imagemin-jpegtran",
   "version": "5.0.2",
   "description": "jpegtran imagemin plugin",
   "license": "MIT",
@@ -43,7 +43,7 @@
   "dependencies": {
     "exec-buffer": "^3.0.0",
     "is-jpg": "^1.0.0",
-    "jpegtran-bin": "^3.0.0"
+    "@weus/jpegtran-bin": "^3.0.0"
   },
   "devDependencies": {
     "ava": "*",
